@@ -13,6 +13,4 @@ individual scripts to make your own stealer
 - 🎆 UAC Bypass
 - 🎆 Webcam Screenshot
 
-## License
 
-GNU General Public License v3.0
